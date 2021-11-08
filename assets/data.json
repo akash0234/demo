@@ -1,0 +1,729 @@
+{
+    "Alipurduar" : {
+		"block a": {
+			"0": {
+				"id": "ORD-20211101-112",
+				"product-name": "Product abc",
+				"date": "2021-10-23",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-2231",
+				"product-name": "Product cxa",
+				"date": "2021-10-09",
+				"quantity": 10,
+				"rate": 50,
+				"total": 50,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-33412",
+				"product-name": "Product wetz",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-331245",
+				"product-name": "Product uyt",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "OTW"
+			},
+			"4": {
+				"id": "ORD-20211101-3123",
+				"product-name": "Product herq",
+				"date": "2021-10-10",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "DEL"
+			},
+			"5": {
+				"id": "ORD-20211101-345",
+				"product-name": "Product qwcx",
+				"date": "2021-11-06",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"6": {
+				"id": "ORD-20211101-12765",
+				"product-name": "Product hgwe",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"7": {
+				"id": "ORD-20211101-37658",
+				"product-name": "Product cwq",
+				"date": "2021-10-03",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-354",
+				"product-name": "Product czq",
+				"date": "2021-10-07",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			}
+		},
+		"block b": {
+			"0": {
+				"id": "ORD-20211101-14563",
+				"product-name": "Product vsa",
+				"date": "2021-11-01",
+				"quantity": 4,
+				"rate": 15,
+				"total": 45,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-2564",
+				"product-name": "Product zcxq",
+				"date": "2021-11-03",
+				"quantity": 4,
+				"rate": 15,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-3987",
+				"product-name": "Product cza",
+				"date": "2021-10-12",
+				"quantity": 10,
+				"rate": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-309",
+				"product-name": "Product zxa",
+				"date": "2021-10-22",
+				"quantity": 10,
+				"rate": 5,
+				"total": 50,
+				"status": "WH"
+			}
+		},
+		"block c": {
+			"0": {
+				"id": "ORD-20211101-3657",
+				"product-name": "Product czxc",
+				"date": "2021-10-19",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-34536",
+				"product-name": "Product 3",
+				"date": "2021-10-23",
+				"quantity": 2,
+				"rate": 55,
+				"total": 110,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-34156",
+				"product-name": "Product weq",
+				"date": "2021-10-29",
+				"quantity": 1,
+				"rate": 250,
+				"total": 250,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-3987",
+				"product-name": "Product as",
+				"date": "2021-10-24",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"4": {
+				"id": "ORD-20211101-30982",
+				"product-name": "Product zxc",
+				"date": "2021-10-13",
+				"quantity": 12,
+				"rate": 20,
+				"total": 240,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-34562",
+				"product-name": "Product dsa",
+				"date": "2021-10-16",
+				"quantity": 12,
+				"rate": 5,
+				"total": 60,
+				"status": "OTW"
+			}
+		}
+	},
+	"Bankura": {
+		"block a": {
+			"0": {
+				"id": "ORD-20211101-112",
+				"product-name": "Product abc",
+				"date": "2021-10-23",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-2231",
+				"product-name": "Product cxa",
+				"date": "2021-10-09",
+				"quantity": 10,
+				"rate": 50,
+				"total": 50,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-33412",
+				"product-name": "Product wetz",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-331245",
+				"product-name": "Product uyt",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "OTW"
+			},
+			"4": {
+				"id": "ORD-20211101-3123",
+				"product-name": "Product herq",
+				"date": "2021-10-10",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "DEL"
+			},
+			"5": {
+				"id": "ORD-20211101-345",
+				"product-name": "Product qwcx",
+				"date": "2021-11-06",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"6": {
+				"id": "ORD-20211101-12765",
+				"product-name": "Product hgwe",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"7": {
+				"id": "ORD-20211101-37658",
+				"product-name": "Product cwq",
+				"date": "2021-10-03",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-354",
+				"product-name": "Product czq",
+				"date": "2021-10-07",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			}
+		},
+		"block b": {
+			"0": {
+				"id": "ORD-20211101-14563",
+				"product-name": "Product vsa",
+				"date": "2021-11-01",
+				"quantity": 4,
+				"rate": 15,
+				"total": 45,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-2564",
+				"product-name": "Product zcxq",
+				"date": "2021-11-03",
+				"quantity": 4,
+				"rate": 15,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-3987",
+				"product-name": "Product cza",
+				"date": "2021-10-12",
+				"quantity": 10,
+				"rate": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-309",
+				"product-name": "Product zxa",
+				"date": "2021-10-22",
+				"quantity": 10,
+				"rate": 5,
+				"total": 50,
+				"status": "WH"
+			}
+		},
+		"block c": {
+			"0": {
+				"id": "ORD-20211101-3657",
+				"product-name": "Product czxc",
+				"date": "2021-10-19",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-34536",
+				"product-name": "Product 3",
+				"date": "2021-10-23",
+				"quantity": 2,
+				"rate": 55,
+				"total": 110,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-34156",
+				"product-name": "Product weq",
+				"date": "2021-10-29",
+				"quantity": 1,
+				"rate": 250,
+				"total": 250,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-3987",
+				"product-name": "Product as",
+				"date": "2021-10-24",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"4": {
+				"id": "ORD-20211101-30982",
+				"product-name": "Product zxc",
+				"date": "2021-10-13",
+				"quantity": 12,
+				"rate": 20,
+				"total": 240,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-34562",
+				"product-name": "Product dsa",
+				"date": "2021-10-16",
+				"quantity": 12,
+				"rate": 5,
+				"total": 60,
+				"status": "OTW"
+			}
+		}
+	},
+	"Birbhum": "",
+	"Cooch Behar": "",
+	"Dakshin Dinajpur": "",
+	"Darjeeling": "",
+	"Hooghly": "",
+	"Howrah": "",
+	"Jalpaiguri": "",
+	"Jhargram": "",
+	"Kalimpong": "",
+	"Kolkata": "",
+	"Malda": "",
+	"Murshidabad": "",
+	"Nadia": "",
+	"North 24 Parganas": "",
+	"Paschim Bardhaman": "",
+	"Paschim Medinipur": "",
+	"Purba Bardhaman": "",
+	"Purba Medinipur": "",
+	"Purulia": "",
+	"South 24 Parganas": {
+		"block a": {
+			"0": {
+				"id": "ORD-20211101-112",
+				"product-name": "Product abc",
+				"date": "2021-10-23",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-2231",
+				"product-name": "Product cxa",
+				"date": "2021-10-09",
+				"quantity": 10,
+				"rate": 50,
+				"total": 50,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-33412",
+				"product-name": "Product wetz",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-331245",
+				"product-name": "Product uyt",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "OTW"
+			},
+			"4": {
+				"id": "ORD-20211101-3123",
+				"product-name": "Product herq",
+				"date": "2021-10-10",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "DEL"
+			},
+			"5": {
+				"id": "ORD-20211101-345",
+				"product-name": "Product qwcx",
+				"date": "2021-11-06",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"6": {
+				"id": "ORD-20211101-12765",
+				"product-name": "Product hgwe",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"7": {
+				"id": "ORD-20211101-37658",
+				"product-name": "Product cwq",
+				"date": "2021-10-03",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-354",
+				"product-name": "Product czq",
+				"date": "2021-10-07",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			}
+		},
+		"block b": {
+			"0": {
+				"id": "ORD-20211101-14563",
+				"product-name": "Product vsa",
+				"date": "2021-11-01",
+				"quantity": 4,
+				"rate": 15,
+				"total": 45,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-2564",
+				"product-name": "Product zcxq",
+				"date": "2021-11-03",
+				"quantity": 4,
+				"rate": 15,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-3987",
+				"product-name": "Product cza",
+				"date": "2021-10-12",
+				"quantity": 10,
+				"rate": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-309",
+				"product-name": "Product zxa",
+				"date": "2021-10-22",
+				"quantity": 10,
+				"rate": 5,
+				"total": 50,
+				"status": "WH"
+			}
+		},
+		"block c": {
+			"0": {
+				"id": "ORD-20211101-3657",
+				"product-name": "Product czxc",
+				"date": "2021-10-19",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-34536",
+				"product-name": "Product 3",
+				"date": "2021-10-23",
+				"quantity": 2,
+				"rate": 55,
+				"total": 110,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-34156",
+				"product-name": "Product weq",
+				"date": "2021-10-29",
+				"quantity": 1,
+				"rate": 250,
+				"total": 250,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-3987",
+				"product-name": "Product as",
+				"date": "2021-10-24",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"4": {
+				"id": "ORD-20211101-30982",
+				"product-name": "Product zxc",
+				"date": "2021-10-13",
+				"quantity": 12,
+				"rate": 20,
+				"total": 240,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-34562",
+				"product-name": "Product dsa",
+				"date": "2021-10-16",
+				"quantity": 12,
+				"rate": 5,
+				"total": 60,
+				"status": "OTW"
+			}
+		}
+	},
+	"Uttar Dinajpur": {
+		"block a": {
+			"0": {
+				"id": "ORD-20211101-19821",
+				"product-name": "Product gh",
+				"date": "2021-11-01",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-27612",
+				"product-name": "Product qw",
+				"date": "2021-11-02",
+				"quantity": 10,
+				"rate": 50,
+				"total": 50,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-38952",
+				"product-name": "Product cxz",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-56723",
+				"product-name": "Product zx",
+				"date": "2021-11-02",
+				"quantity": 13,
+				"rate": 5,
+				"total": 65,
+				"status": "OTW"
+			},
+			"4": {
+				"id": "ORD-20211101-12473",
+				"product-name": "Product cxz",
+				"date": "2021-11-02",
+				"quantity": 2,
+				"rate": 250,
+				"total": 500,
+				"status": "DEL"
+			},
+			"5": {
+				"id": "ORD-20211101-9233",
+				"product-name": "Product vc",
+				"date": "2021-11-02",
+				"quantity": 1,
+				"rate": 30,
+				"total": 30,
+				"status": "WH"
+			},
+			"6": {
+				"id": "ORD-20211101-98123",
+				"product-name": "Product kjh",
+				"date": "2021-10-18",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"7": {
+				"id": "ORD-20211101-5123",
+				"product-name": "Product xzq",
+				"date": "2021-10-10",
+				"quantity": 20,
+				"rate": 50,
+				"total": 1000,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-53213",
+				"product-name": "Product bc",
+				"date": "2021-10-12",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "WH"
+			}
+		},
+		"block b": {
+			"0": {
+				"id": "ORD-20211101-453121",
+				"product-name": "Product klq",
+				"date": "2021-10-19",
+				"quantity": 4,
+				"rate": 15,
+				"total": 45,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-53122",
+				"product-name": "Product kj",
+				"date": "2021-10-24",
+				"quantity": 4,
+				"rate": 15,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-81253",
+				"product-name": "Product uiy",
+				"date": "2021-10-08",
+				"quantity": 10,
+				"rate": 50,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-33521",
+				"product-name": "Product kwq",
+				"date": "2021-10-09",
+				"quantity": 10,
+				"rate": 5,
+				"total": 50,
+				"status": "WH"
+			}
+		},
+		"block c": {
+			"0": {
+				"id": "ORD-20211101-36432",
+				"product-name": "Product lwq",
+				"date": "2021-10-11",
+				"quantity": 2,
+				"rate": 50,
+				"total": 100,
+				"status": "DEL"
+			},
+			"1": {
+				"id": "ORD-20211101-3896",
+				"product-name": "Product jeas",
+				"date": "2021-10-12",
+				"quantity": 2,
+				"rate": 55,
+				"total": 110,
+				"status": "DEL"
+			},
+			"2": {
+				"id": "ORD-20211101-3652",
+				"product-name": "Product ssda",
+				"date": "2021-11-06",
+				"quantity": 1,
+				"rate": 250,
+				"total": 250,
+				"status": "OTW"
+			},
+			"3": {
+				"id": "ORD-20211101-30645",
+				"product-name": "Product fhg",
+				"date": "2021-11-04",
+				"quantity": 1,
+				"rate": 50,
+				"total": 50,
+				"status": "WH"
+			},
+			"4": {
+				"id": "ORD-20211101-32156",
+				"product-name": "Product ew",
+				"date": "2021-11-03",
+				"quantity": 12,
+				"rate": 20,
+				"total": 240,
+				"status": "WH"
+			},
+			"8": {
+				"id": "ORD-20211101-38009",
+				"product-name": "Product sa",
+				"date": "2021-11-02",
+				"quantity": 12,
+				"rate": 5,
+				"total": 60,
+				"status": "OTW"
+			}
+		}
+	}
+}
